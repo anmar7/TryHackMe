@@ -4,5 +4,6 @@
 
 ## Write-ups
 - [Publisher](./Write-ups/Publisher/README.md)
+- [Frank & Herby make an app](./Write-ups/Frank-&-Herby/README.md)
 
 > This repository is educational. All sensitive data should be redacted before publishing.
