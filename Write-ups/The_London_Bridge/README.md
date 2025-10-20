@@ -14,7 +14,7 @@
 
 ```bash
 
-└─$ nmap -sV -sC -Pn -T4 10.10.220.239                             
+└─$ nmap -sV -sC -Pn -T4 londonbridge.thm                             
 
 22/tcp   open  ssh     OpenSSH 7.6p1 Ubuntu 4ubuntu0.7 (Ubuntu Linux; protocol 2.0)
 8080/tcp open  http    Gunicorn
@@ -28,7 +28,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 2. Directory discovery:
 
 ```bash
-└─$ gobuster dir -u http://10.10.220.239:8080/ -w /usr/share/wordlists/dirb/big.txt -t 40 -x .php,.php.bak,.txt
+└─$ gobuster dir -u http://londonbridge.thm:8080/ -w /usr/share/wordlists/dirb/big.txt -t 40 -x .php,.php.bak,.txt
 
 /contact              (Status: 200) [Size: 1703]
 /feedback             (Status: 405) [Size: 178]
