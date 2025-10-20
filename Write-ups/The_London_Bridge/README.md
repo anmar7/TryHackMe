@@ -42,7 +42,7 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 
 3. In the dejaview page, we discovered an image upload functionality via URL using the image_url parameter.
-![image_url-parameter](Write-ups/The_London_Bridge/images/POST-REQ-View-2.png)
+![image_url-parameter](images/POST-REQ-View-2.png)
  Following the hint about checking for development leftovers, we fuzzed for hidden parameters.
 
 4. Parameter Discovery with FFuf:
