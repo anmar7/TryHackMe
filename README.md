@@ -5,6 +5,7 @@
 ## Write-ups
 - [Publisher](./Write-ups/Publisher/README.md)
 - [Billing](./Write-ups/Billing/README.md)
+- [Agent T](./Write-ups/Agent_T/README.md)
 - [Frank & Herby make an app](./Write-ups/Frank&Herby_make_an_app/README.md)
 - [Ollie](./Write-ups/Ollie/README.md)
 - [Battery](./Write-ups/Battery/README.md)
