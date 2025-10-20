@@ -1,7 +1,7 @@
 # The London Bridge - TryHackMe Writeup
 
 **Difficulty:** Medium  
-**TL;DR:** Found SSRF via hidden `www` parameter → SSH key theft → user flag → exploited kernel vulnerability `(CVE-2018-18955)` → root access -> extracted `Charles` password from FireFox profile.
+**TL;DR:** Found SSRF via hidden `www` parameter → SSH key theft → user flag → exploited kernel vulnerability `(CVE-2018-18955)` → root access → extracted `Charles` password from FireFox profile.
 ---------------------------
 ## Target
 - Machine: `LondonBridge`  
