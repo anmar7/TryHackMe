@@ -14,7 +14,7 @@
 1. Initial scan:
 
 ```bash
-└─$ nmap -sV -sC -Pn -T4  agrntt.thm                                     
+└─$ nmap -sV -sC -Pn -T4  agentt.thm                                     
 
 80/tcp open  http    PHP cli server 5.5 or later (PHP 8.1.0-dev)
 |_http-title:  Admin Dashboard
