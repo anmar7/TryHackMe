@@ -69,5 +69,5 @@ uid=0(root) gid=0(root) groups=0(root)
 ### The flag :
 ```bash
 $ cat /flag.txt
-flag{[REDACTED}
+flag{[REDACTED]}
 ```
