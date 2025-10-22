@@ -169,7 +169,7 @@ Switch to the `webdeveloper` user and retrieve the user flag:
 
 ```bash
 su webdeveloper
-Password: BahamasChapp123!@#
+Password: [REDACTED]!@#
 
 webdeveloper@sky:~$ cat user.txt
 cat user.txt
