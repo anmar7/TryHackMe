@@ -1,7 +1,7 @@
 # Road - TryHackMe Writeup
 
 **Difficulty:** Medium  
-**TL;DR:** Admin Account TakeOver → Upload Web shell & Revese Shell → Discover `webdeveloper` password → Privilege Escalation via `LD_PRELOAD`
+**TL;DR:** Admin Account TakeOver → Upload Web shell & Reverse Shell → Discover `webdeveloper` password → Privilege Escalation via `LD_PRELOAD`
 -----------------------------
 ## Target
 - Machine: `road.thm`
