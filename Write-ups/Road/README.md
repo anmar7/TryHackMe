@@ -53,7 +53,7 @@ Using Burp Suite, I intercepted the POST request to the password reset functiona
 
 I modified the username in the POST request from the current user to `admin@sky.thm`
 
-![ScreenShot-Burp](/images/Account_Take.png)
+![ScreenShot-Burp](images/Account_Take.png)
 
 The application allowed the password change for the admin account without proper authorization checks.
 
