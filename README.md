@@ -3,9 +3,10 @@
 **TL;DR:** Collection of concise TryHackMe room write-ups. Each room has its own folder inside `Write-ups/` with a `README.md` as the main readme for that room.
 
 ## Write-ups
-- [Publisher](./Write-ups/Publisher/README.md)
 - [Billing](./Write-ups/Billing/README.md)
+- [Publisher](./Write-ups/Publisher/README.md)
 - [Agent T](./Write-ups/Agent_T/README.md)
+- [Cheese CTF](.Write-ups/Cheese_CTF/README.md)
 - [Frank & Herby make an app](./Write-ups/Frank&Herby_make_an_app/README.md)
 - [Ollie](./Write-ups/Ollie/README.md)
 - [Battery](./Write-ups/Battery/README.md)
