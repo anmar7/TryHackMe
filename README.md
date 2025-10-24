@@ -6,7 +6,7 @@
 - [Billing](./Write-ups/Billing/README.md)
 - [Publisher](./Write-ups/Publisher/README.md)
 - [Agent T](./Write-ups/Agent_T/README.md)
-- [Cheese CTF](.Write-ups/Cheese_CTF/README.md)
+- [Cheese CTF](./Write-ups/Cheese_CTF/README.md)
 - [Frank & Herby make an app](./Write-ups/Frank&Herby_make_an_app/README.md)
 - [Ollie](./Write-ups/Ollie/README.md)
 - [Battery](./Write-ups/Battery/README.md)
