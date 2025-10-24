@@ -5,7 +5,7 @@
 ## Target
 - Machine: Cheese.thm
 - Date: 2025-8-13
-- Environment: TryHackMe / educational lab
+- Environment: TryHackMe / CTF
 
 ## Steps:
 
