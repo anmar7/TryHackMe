@@ -50,9 +50,9 @@ About the project:
 #### CVE-2024-36042
 `Silverpeas before 6.3.5 allows authentication bypass by omitting the Password field to AuthenticationServlet, often providing an unauthenticated user with ...`
 
-We gonna remove password field from login request via burp suite :
+We gonna remove password field from login request via `burp suite` :
 
-![Remove password field](images/burp-sutie2.png)
+![Remove password field](images/burp-suite2.png)
 
 login successfully !
 
