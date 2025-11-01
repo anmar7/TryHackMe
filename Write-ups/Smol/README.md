@@ -1,5 +1,7 @@
 # Smol - TryHackMe Writeup
 
+**Difficulty:** Medium
+
 **TL;DR:** WordPress Discovery → SSRF Exploit → Config Leak → Backdoor Access → Reverse Shell → Database Access → Password Cracking → User Access → SSH Key Discovery → Lateral Movement → ZIP Cracking → More Passwords → Sudo Privilege Escalation → Root Access
 
 ## Target
