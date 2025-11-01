@@ -99,7 +99,7 @@ Reading wp-config.php:
 
 After logging into WordPress, we found notes left by the webmaster:
 
-![webmaster](images/notes.png)
+![webmaster](images/ntoes.png)
 
 
 ### 5. Backdoor Discovery
