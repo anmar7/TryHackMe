@@ -13,6 +13,7 @@ Easy
 - [Agent T](./Write-ups/Agent_T/README.md)
 - [The Sticker Shop](./Write-ups/The_Sticker_Shop/README.md)
 - [Cheese CTF](./Write-ups/Cheese_CTF/README.md)
+  
 Medium
 - [Smol](./Write-ups/Smol/README.md)
 - [Frank & Herby make an app](./Write-ups/Frank&Herby_make_an_app/README.md)
