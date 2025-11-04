@@ -71,7 +71,7 @@ This approach successfully created an account with an active subscription, allow
 
 After successful login, I found upload feature that allowed uploading files either from the local system or via URL:
 
-![upload](path.png)
+![upload](images/path.png)
 the path `/api/uploads/`
 
 The upload endpoint was identified as `/api/uploads/`, which presented potential SSRF (Server-Side Request Forgery) attack vectors
