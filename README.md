@@ -17,6 +17,7 @@ Easy
 Medium
 - [Smol](./Write-ups/Smol/README.md)
 - [Rabbit Store](./Write-ups/Rabbit_Store/README.md)
+- [Airplane](./Write-ups/Airplane/README.md)
 - [Frank & Herby make an app](./Write-ups/Frank&Herby_make_an_app/README.md)
 - [Ollie](./Write-ups/Ollie/README.md)
 - [Battery](./Write-ups/Battery/README.md)
