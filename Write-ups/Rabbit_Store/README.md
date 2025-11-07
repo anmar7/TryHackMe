@@ -114,6 +114,7 @@ internal port scanning revealed a service running on port 3000:
 curl -X POST http://storage.cloudsite.thm/api/store-url -H "Cookie: jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3QxQHRlc3QudGhtIiwic3Vic2NyaXB0aW9uIjoiYWN0aXZlIiwiaWF0IjoxNzYyMTUyOTgxLCJleHAiOjE3NjIxNTY1ODF9.yWzMMvheKAEL3A9-1TMJ-WQR99yNPHzhTNfHF6h9h3A" -H "Content-Type: application/json" -d '{"url":"http://127.0.0.1:3000/api/docs"}'
 ```
 
+(3000 for Node.js 'X-Powered-By: Express')
 ![testman](images/testman.png)
 
 ![testman2](images/testman2.png)
@@ -122,7 +123,6 @@ The response indicated successful connection and revealed a new endpoint:
 ```txt
 api/fetch_messeges_from_chatbot - Currently, the chatbot is under development. Once development is complete, it will be used in the future.
 ```
-(3000 for Node.js 'X-Powered-By: Express')
 
 Initial attempts to access the `/api/fetch_messeges_from_chatbot` endpoint via GET requests returned "Method Not Allowed". Further investigation through Burp Suite revealed that the endpoint only accepted POST requests.
 
