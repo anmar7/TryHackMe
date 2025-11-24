@@ -156,6 +156,6 @@ at `/root/root.txt`
 
 ```bash
 root@mustacchio:/tmp# cat /root/root.txt 
-3223581420d906c4dd1a5f9b530393a5
+[REDACTED]
 ```
 ![root](images/root.png)
