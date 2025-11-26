@@ -16,7 +16,7 @@
 - Downloaded the provided PCAP file
 - Opened in Wireshark to analyze network traffic
 
-![Wireshark](images/Wireshark.png.png)
+![Wireshark](images/Wireshark.png)
 
 ### 2. TCP Stream Extraction
 
