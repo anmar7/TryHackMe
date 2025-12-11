@@ -15,6 +15,7 @@ Easy
 - [The Sticker Shop](./Write-ups/The_Sticker_Shop/README.md)
 - [Cheese CTF](./Write-ups/Cheese_CTF/README.md)
 - [React2Shell](./Write-ups/React2Shell/README.md)
+- [GamingServer](./Write-ups/GamingServer/README.md)
   
 Medium
 - [Smol](./Write-ups/Smol/README.md)
