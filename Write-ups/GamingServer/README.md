@@ -54,7 +54,7 @@ ssh2john id_rsa | tee > hash
 
 john hash --wordlist=/usr/share/wordlists/rockyou.txt
 ```
-![john](images/john2.png)
+![john](images/john.png)
 
 ### 3. Access to the server
 
@@ -68,7 +68,7 @@ ssh -i id_rsa john@exploitable.thm
 
 located at `/home/john/user.txt`
 
-![flag1](images/flaguser.png)
+![flag1](images/userflag.png)
 
 
 ### 4. Privilege Escalation
