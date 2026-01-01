@@ -107,7 +107,7 @@ Ctrl+Z
 stty raw -echo && fg
 ```
 
-![revese-shell](images/rev.php)
+![revese-shell](images/rev.png)
 
 ### 4. Lateral Movement 
 
