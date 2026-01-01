@@ -51,15 +51,11 @@ Result: Successfully bypassed authentication and accessed the admin dashboard.
 ![admin](images/admin.png)
 
 #### 2.2  Exploring Admin Dashboard
-    Discovered CTS-QR v1.0 contact tracing system
-
-    Found functionality to upload system images
-
-    Upload feature accepts various file types, including PHP files
+- Discovered CTS-QR v1.0 contact tracing system
+- Found functionality to upload system images
+- Upload feature accepts various file types, including PHP files
 
 ![upload](images/upload.png)
-
-we could upload `.php` files 
 
 
 ### 3. Web Shell Upload & Initial Access
@@ -74,11 +70,11 @@ Created a simple PHP web shell:
 
 #### 3.2 Uploading Web Shell
 
-    Uploaded the PHP file as a "system image"
+- Uploaded the PHP file as a "system image"
 
-    File accessible at: `http://contacttracer.thm/uploads/[filename].php`
+- File accessible at: `http://contacttracer.thm/uploads/[filename].php`
     
-    Open the system image in new tab After logout 
+- Open the system image in new tab After logout 
 #### 3.3 Testing Command Execution
 
 ```URL
